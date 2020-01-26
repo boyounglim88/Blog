@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Boyoung Lim's Notebook
+description:    "세상을 깊게 보는 눈"
 baseurl:        "/"
 url:            "https://boyounglim.com"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+#google_analytics: UA—XXXXXXXX-Xs
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Boyoung Lim
+  url:          https://boyounglim.com
+  email:        boyounglim88+2020@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -33,7 +33,7 @@ plugins:
 remote_theme: chesterhow/tale
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:year/:month/:day/:title
 paginate:       5
 
 plugins:
