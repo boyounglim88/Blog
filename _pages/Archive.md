@@ -7,6 +7,8 @@ permalink: /archive/
 
 Archive of past reportings - mostly in Korean, some in English
 
+
+
 ["중국으로만 보내지 마세요"... 한 위구르인의 편지](https://newstapa.org/article/ENhKa) (Link in Korean) (2019-11-27)
 
 ['한일 극우 커넥션'... 자위대 퇴역간부 단체, 수방사와 특전사 방문](https://newstapa.org/article/vYM76) (Link in Korean) (2019-08-14)
