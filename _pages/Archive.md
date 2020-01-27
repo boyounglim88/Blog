@@ -2,7 +2,7 @@
 layout: post
 title: "Reportings"
 author: "Boyoung Lim"
-permalink: /reportings/
+permalink: /archive/
 ---
 
 Archive of past reportings - mostly in Korean, some in English
