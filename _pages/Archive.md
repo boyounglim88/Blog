@@ -57,6 +57,8 @@ Archive of past reportings - mostly in Korean, some in English
 
 ["XX야, 몇 살이야?" 파출소 진상들에게 고함](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002358504) (Link in Korean) (2017-09-12)
 
+["South Korean journalists team up to fight misinformation"](https://firstdraftnews.org/latest/sk-journalists-collaborate/) (2017-08-31)
+
 ["이제는 바꾸자"... 사상 첫 경찰개혁 전국경찰토론회](https://newstapa.org/article/ShhSb) (Link in Korean) (2017-08-24)
 
 ["나의 입국금지는 박근혜 정부의 보복일 것](https://newstapa.org/article/V2hM5) (Link in Korean) (2017-07-18)
