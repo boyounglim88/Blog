@@ -25,7 +25,7 @@ Archive of past reportings - mostly in Korean, some in English
 
 [North Korea's top Kim Il Sung University scholars found to publish piles of papers in predatory journals](https://news.kcij.org/65) (2018-07-20)
 
-[파나마 페이퍼스 그 후... "역외 유령회사 서둘러 없애달라](https://newstapa.org/article/VxjD4) (Link in Korean) (2018-06-21)
+[파나마 페이퍼스 그 후... "역외 유령회사 서둘러 없애달라"](https://newstapa.org/article/VxjD4) (Link in Korean) (2018-06-21)
 
 [한국유니세프, 성희롱의혹 사무총장 위해 '명예'퇴임식 개최](https://newstapa.org/article/OY0Di) (Link in Korean) (2018-04-03)
 
