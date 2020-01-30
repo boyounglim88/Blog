@@ -5,6 +5,9 @@ author: "Boyoung Lim"
 permalink: /about/
 ---
 
+**Boyoung Lim** is a freelance investigative journalist based in South Korea. She formerly worked as a reporter at the Korea Center for Investigative Journalism (KCIJ) - [Newstapa](https://newstapa.org).
+
+
 **Boyoung Lim** is a freelance investigative journalist based in South Korea. She formerly worked as a reporter at the Korea Center for Investigative Journalism (KCIJ) - [Newstapa](https://newstapa.org/).
 
 Before starting her career in journalism, she worked as a police officer for the Korean National Police. She graduated from the Korean National Police University with a focus on law and criminal investigation.
