@@ -61,7 +61,7 @@ Archive of past reportings - mostly in Korean, some in English
 
 ["이제는 바꾸자"... 사상 첫 경찰개혁 전국경찰토론회](https://newstapa.org/article/ShhSb) (Link in Korean) (2017-08-24)
 
-["나의 입국금지는 박근혜 정부의 보복일 것](https://newstapa.org/article/V2hM5) (Link in Korean) (2017-07-18)
+["나의 입국금지는 박근혜 정부의 보복일 것"](https://newstapa.org/article/V2hM5) (Link in Korean) (2017-07-18)
 
 [What's behind South Korea's fact-checking boom? Tense politics, and the decline of investigative journalism](https://www.poynter.org/fact-checking/2017/whats-behind-south-koreas-fact-checking-boom-tense-politics-and-the-decline-of-investigative-journalism/) (2017-06-16)
 
