@@ -5,9 +5,9 @@ author: "Boyoung Lim"
 permalink: /archive/
 ---
 
-Archive of past reportings - mostly in Korean, some in English
+_Archive of past reportings - mostly in Korean, some in English_
 
-
+*월간 신문과방송 (Monthly media magazine by Korea Press Foundation) [알고리즘 감시체계: 알고리즘을 통한 소수민족 탄압, 남의 이야기인가](http://www.kpf.or.kr/synap/skin/doc.html?fn=ALLF_202002040522012650.pdf&rs=/synap/result/newspaper/)
 
 ["중국으로만 보내지 마세요"... 한 위구르인의 편지](https://newstapa.org/article/ENhKa) (Link in Korean) (2019-11-27)
 
@@ -55,15 +55,15 @@ Archive of past reportings - mostly in Korean, some in English
 
 [앞뒤 다른 경찰청... 고 백남기 농민 사건 살수차 경찰관에 "청구인낙 말라"](https://newstapa.org/article/ov7Cl) (Link in Korean) (2017-09-28)
 
-["XX야, 몇 살이야?" 파출소 진상들에게 고함](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002358504) (Link in Korean) (2017-09-12)
+*OhMyNews ["XX야, 몇 살이야?" 파출소 진상들에게 고함](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002358504) (Link in Korean) (2017-09-12)
 
-["South Korean journalists team up to fight misinformation"](https://firstdraftnews.org/latest/sk-journalists-collaborate/) (2017-08-31)
+*FirstDraft ["South Korean journalists team up to fight misinformation"](https://firstdraftnews.org/latest/sk-journalists-collaborate/) (2017-08-31)
 
 ["이제는 바꾸자"... 사상 첫 경찰개혁 전국경찰토론회](https://newstapa.org/article/ShhSb) (Link in Korean) (2017-08-24)
 
 ["나의 입국금지는 박근혜 정부의 보복일 것"](https://newstapa.org/article/V2hM5) (Link in Korean) (2017-07-18)
 
-[What's behind South Korea's fact-checking boom? Tense politics, and the decline of investigative journalism](https://www.poynter.org/fact-checking/2017/whats-behind-south-koreas-fact-checking-boom-tense-politics-and-the-decline-of-investigative-journalism/) (2017-06-16)
+*Poynter [What's behind South Korea's fact-checking boom? Tense politics, and the decline of investigative journalism](https://www.poynter.org/fact-checking/2017/whats-behind-south-koreas-fact-checking-boom-tense-politics-and-the-decline-of-investigative-journalism/) (2017-06-16)
 
 ['인권 경찰'인가, '정치 경찰'인가](https://blog.newstapa.org/boyoung/4527) (Link in Korean) (2017-05-30)
 
