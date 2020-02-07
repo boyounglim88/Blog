@@ -7,7 +7,7 @@ permalink: /archive/
 
 _Archive of past reportings - mostly in Korean, some in English_
 
-*월간 신문과방송 (Monthly media magazine by Korea Press Foundation) [알고리즘 감시체계: 알고리즘을 통한 소수민족 탄압, 남의 이야기인가](http://www.kpf.or.kr/synap/skin/doc.html?fn=ALLF_202002040522012650.pdf&rs=/synap/result/newspaper/)
+*월간 신문과방송 (Monthly media magazine by Korea Press Foundation) [알고리즘 감시체계: 알고리즘을 통한 소수민족 탄압, 남의 이야기인가](http://www.kpf.or.kr/synap/skin/doc.html?fn=ALLF_202002040522012650.pdf&rs=/synap/result/newspaper/) (2020-02-03)
 
 ["중국으로만 보내지 마세요"... 한 위구르인의 편지](https://newstapa.org/article/ENhKa) (Link in Korean) (2019-11-27)
 
