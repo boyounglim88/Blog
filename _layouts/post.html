@@ -23,6 +23,12 @@ layout: default
   {{ content }}
 </div>
 
+<ul class="tags">
+  {% for tag in page.tags %}
+    <li><a href="/tags#{{ tag }}" class="tag">{{ tag | capitalize }}</a></li>
+  {% endfor %}
+</ul>
+
 {% if page.comments %}
   {% include disqus_comments.html %}
 {% endif %}
