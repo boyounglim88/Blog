@@ -3,6 +3,7 @@ layout: post
 permalink: /tags
 title: Tags
 description: Articles listed by tags.
+author: ""
 ---
 
 {% for tag in site.tags %}
