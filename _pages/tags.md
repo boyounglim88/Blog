@@ -10,7 +10,7 @@ author: ""
   <h3 id="{{tag[0]}}">{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
-      <li>{{ post.date }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li>{{ page.date | date: "%B %d, %Y" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
