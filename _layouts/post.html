@@ -23,7 +23,12 @@ layout: default
   {{ content }}
 </div>
 
-{{page.tags | capitalize | join: ', '}}
+{% if page.tags %}
+  Filed under:&nbsp;
+  {% for tag in post.tags %}
+    <a href="/tags#{{ tag }}">{{ tag }}</a>&nbsp;
+  {% endfor %}
+{% endif %}
 
 {% if page.comments %}
   {% include disqus_comments.html %}
